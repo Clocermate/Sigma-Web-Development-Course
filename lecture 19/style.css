@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+ h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: large;
+    text-transform: capitalize;
+ }
+ .lorem{
+    overflow: hidden;
+ }
